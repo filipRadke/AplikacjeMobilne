@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Wprowadzenie</string>
+    <string name="app_name">Fajna aplikacja</string>
+    <string name="frontPanel">Title</string>
+    <string name="emailPanel">Type your email</string>
+    <string name="passwordPanel">Type your password</string>
+    <string name="repeatPasswordPanel">Repeat your password</string>
+    <string name="buttonAccept">Login</string>
 </resources>
