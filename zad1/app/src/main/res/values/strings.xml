@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kreska</string>
+    <string name="polubienia">0 polubień</string>
+    <string name="title">Tytuł</string>
+    <string name="desc">Opis</string>
+    <string name="text">Can you find pearto?</string>
+</resources>
