@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Układ liniowy</string>
+
+    <string name="title">Urządzenia domowe</string>
+    <string name="author">Autor: 00000000000</string>
+
+    <string name="wm">Pralka</string>
+    <string name="wmInput">Podaj numer prania 1..12</string>
+    <string name="wmConfirm">Zatwierdz</string>
+    <string name="wmPlaceholder">Numer prania: nie podano</string>
+
+    <string name="vac">Odkurzacz</string>
+    <string name="vacOn">Włącz</string>
+    <string name="vacIsOff">Odkurzacz wyłączony</string>
+    <string name="vacStatus">Status: nałądowany</string>
+
+</resources>
