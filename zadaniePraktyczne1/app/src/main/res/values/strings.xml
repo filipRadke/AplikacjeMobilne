@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">zadaniePraktyczne1</string>
+
+    <string name="title">Rejestracja</string>
+
+    <string name="email">Email:</string>
+    <string name="password">Hasło:</string>
+    <string name="repeatPassword">Powtórz hasło:</string>
+
+    <string name="emailInput">Podaj Email</string>
+    <string name="passwordInput">Podaj hasło</string>
+
+    <string name="button">Zatwierdź</string>
+
+    <string name="name">Filip Radke</string>
+    <string name="klasa">4c</string>
+</resources>
