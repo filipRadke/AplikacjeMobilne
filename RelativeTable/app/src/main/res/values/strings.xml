@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RelativeTable</string>
+    <string name="Name">Name</string>
+    <string name="Address">Address</string>
+    <string name="HintName">Enter Name</string>
+    <string name="HintAddress">Enter Address</string>
+    <string name="Clear">Clear</string>
+    <string name="Submit">Submit</string>
+    <string name="Title">TableLayout and RelativeLayout</string>
+
+</resources>
