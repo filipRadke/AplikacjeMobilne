@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="desc">scroll</string>
+    <string name="title">Lorem</string>
+    <string name="lorem">1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dignissim nunc sit amet ex tristique, nec accumsan lacus rhoncus. Sed ac laoreet metus, sed hendrerit justo. Nullam non interdum purus. Suspendisse ac erat at odio vulputate condimentum. Ut sit amet risus vel felis pretium interdum vel et ipsum. Duis non mi sed erat suscipit eleifend vitae sed orci.
+
+2. Aenean convallis consequat lectus, eget tristique sapien varius sed. Phasellus in nisi ac justo rhoncus vestibulum. Donec facilisis, justo sit amet lacinia vestibulum, tortor nulla congue massa, at aliquam libero nibh nec augue. Nullam nec pulvinar ex. Ut ac mi ac urna efficitur lacinia. Sed malesuada gravida magna, ac viverra enim posuere in.
+
+3. Morbi varius, arcu nec suscipit porttitor, velit tortor mattis justo, at dictum sem lectus ac nibh. Vestibulum eget diam nec justo congue tempus. Ut elementum efficitur nulla, a eleifend lacus faucibus ut. Integer pharetra turpis ut erat suscipit, nec vehicula mi volutpat. Curabitur at finibus sapien. Donec sodales cursus risus, id tincidunt velit sagittis id.
+
+4. Curabitur imperdiet porttitor libero, et posuere magna placerat ut. Vivamus vel sagittis libero. Proin accumsan, erat et congue luctus, augue ipsum cursus risus, non suscipit justo sapien sit amet purus. Aliquam erat volutpat. Quisque non ornare nulla. Sed vehicula magna at diam bibendum, vitae commodo ipsum bibendum.
+
+5. Praesent fringilla ligula at sem gravida tempor. Integer blandit ligula et risus suscipit dapibus. Etiam malesuada tellus ac urna rhoncus malesuada. Mauris in nulla sagittis, porttitor tortor a, hendrerit erat. Cras non tincidunt justo, non efficitur lorem. Vivamus varius, sem sit amet dignissim pretium, erat magna bibendum justo, sit amet dictum nunc odio vel erat.
+
+6. Donec ac sem ut nunc cursus accumsan sed et massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer eget velit arcu. In laoreet eros at urna eleifend finibus. Pellentesque sit amet odio eros. Mauris suscipit congue ipsum, at laoreet sapien sodales at.
+
+7. Sed venenatis libero vitae eros volutpat congue. Mauris consequat, est at dapibus luctus, nibh sem faucibus sapien, at posuere nisi justo ut justo. Nulla facilisi. Phasellus sed orci sed nibh tempor congue sit amet in lorem. Vestibulum pharetra metus eu faucibus congue.
+
+8. Nulla facilisi. Integer nec diam elit. Vivamus interdum magna nec ex convallis, et pretium sem tincidunt. Fusce sed libero leo. Ut non lorem convallis, sodales risus ac, condimentum orci. Suspendisse eu tellus non nulla ullamcorper tempor. Maecenas convallis nisl vel tincidunt cursus.
+
+9. Fusce nec justo quis nibh suscipit dignissim sit amet vel erat. Suspendisse vitae tortor in nisi vestibulum tincidunt. Cras malesuada condimentum ligula a faucibus. Mauris pretium, odio eget tincidunt dignissim, erat tortor gravida ligula, nec porttitor nulla sem non odio. Pellentesque ut massa leo.
+
+10. In hac habitasse platea dictumst. Sed imperdiet nisl a felis dignissim, sed ultrices erat interdum. Suspendisse eget lorem eget erat hendrerit hendrerit vel a erat. Aenean consequat, justo eget sollicitudin hendrerit, urna odio elementum lacus, ac hendrerit lacus lorem ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
+</string>
+</resources>
