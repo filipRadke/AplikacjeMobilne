@@ -1,0 +1,23 @@
+<resources>
+    <style name="Theme.Stylik" parent="Base.Theme.Stylik" />
+    <style name="BaseHeaderStyle">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">8dp</item>
+    </style>
+    <style name="ProfileTitleStyle" parent="BaseHeaderStyle">
+        <item name="android:textColor">?attr/colorTitle</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="BaseButtonStyle">
+        <item name="android:padding">12dp</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:titleMarginTop">8dp</item>
+    </style>
+    <style name="EditButtonStyle" parent="BaseButtonStyle">
+        <item name="android:backgroundTint">?attr/colorButtonSecondary</item>
+    </style>
+    <style name="SaveButtonStyle" parent="BaseButtonStyle">
+        <item name="android:backgroundTint">?attr/colorButtonPrimary</item>
+    </style>
+</resources>

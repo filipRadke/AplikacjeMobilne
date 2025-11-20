@@ -1,0 +1,5 @@
+<resources>
+    <attr name="colorTitle" format="color"></attr>
+    <attr name="colorButtonPrimary" format="color"></attr>
+    <attr name="colorButtonSecondary" format="color"></attr>
+</resources>
